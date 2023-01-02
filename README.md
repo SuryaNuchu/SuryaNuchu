@@ -27,8 +27,8 @@ Skilled Java developer with diverse experience in utilizing Java tools for clien
 
 <p align="center">
 <a href="https://github.com/suryanuchu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryanuchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryanuchu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryanuchu&show_icons=true&include_all_commits=true&count_private=true&hide=contrib"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryanuchu&layout=compact&langs_count=8"/>
 </a>
 </p>
 
