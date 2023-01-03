@@ -24,7 +24,7 @@ Skilled Java developer with diverse experience in utilizing Java tools for clien
 ![intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p>
 <a href="https://github.com/suryanuchu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryanuchu&show_icons=true&include_all_commits=true&theme=dark&layout=compact&count_private=true&hide=contribs,issues"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryanuchu&count_private=true&theme=dark&layout=compact&langs_count=8"/>
